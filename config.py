@@ -24,10 +24,9 @@ def get_api_key() -> str:
         str: The Gemini API key
     """
     api_key = os.getenv("GEMINI_API_KEY")
-    
-    # Fallback: hardcode the key if env var is not set
     if not api_key:
-        api_key = "AIzaSyCMxJ2ZqrfPD4S6g9qBY7oHV33vWiboJwA"
+        raise ValueError("Set GEMINI_API_KEY")
+
     
     if not api_key:
         raise ValueError(
@@ -72,3 +71,4 @@ def create_config(max_steps: int = 30) -> DroidrunConfig:
     )
     
     return config
+

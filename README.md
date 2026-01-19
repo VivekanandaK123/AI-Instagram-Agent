@@ -37,7 +37,7 @@ Customizes your Instagram explore feed by training it with your interests. The a
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone (https://github.com/DSK-champ/AI-Instagram-Agent)
    cd Droidrun
    ```
 
@@ -182,3 +182,4 @@ For issues related to:
 ---
 
 **Built with ❤️ for the Hackathon**
+

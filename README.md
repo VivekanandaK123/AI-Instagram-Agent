@@ -169,7 +169,7 @@ ValueError: GEMINI_API_KEY environment variable not set
 **Solution**: Verify that:
 - Your Android device is connected via USB/ADB
 - Droidrun is properly installed and configured
-- Instagram app is installed on the device
+- Instagram is installed on the device
 
 ### Import Errors
 **Solution**: Make sure all dependencies are installed:
@@ -194,6 +194,7 @@ For issues related to:
 ---
 
 **Built with ❤️ for the Hackathon**
+
 
 
 

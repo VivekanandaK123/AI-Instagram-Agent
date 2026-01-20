@@ -2,7 +2,12 @@
 
 An intelligent automation system for Instagram using Droidrun and Google Gemini AI. This project provides two specialized agents to automate Instagram interactions saving precious time for the user while they can indulge in other productive aactivities.
 
-https://contrib.rocks/image?repo=OWNER/REPO
+## Contributors
+
+<a href="https://github.com/DSK-champ/AI-Instagram-Agent/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DSK-champ/AI-Instagram-Agent" />
+</a>
+
 
 ## 🤖 Agents
 
@@ -189,6 +194,7 @@ For issues related to:
 ---
 
 **Built with ❤️ for the Hackathon**
+
 
 
 
